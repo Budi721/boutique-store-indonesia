@@ -106,7 +106,7 @@ export function Pricing() {
             name="Complete Batik Experience"
             description="Raih keindahan dan pengetahuan lengkap tentang batik dengan paket eksklusif kami."
             price="Tanyakan via WhatsApp"
-            href="https://wa.me/yourwhatsappnumber"
+            href="https://wa.me/6285161677221"
             action="Hubungi via WhatsApp"
             features={[
             ]}
@@ -116,7 +116,7 @@ export function Pricing() {
             name=""
             description=""
             price="Order Now"
-            href="https://yourwebsite.com/order"
+            href="https://www.boutiqueid.store"
             action="Pesan di Website"
             features={[
               'Gratis ongkir ke seluruh Indonesia',

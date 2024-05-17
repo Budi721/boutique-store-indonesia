@@ -45,7 +45,7 @@ export function FreeChapters() {
                 color="white"
                 className="mt-4 w-full sm:relative sm:z-10 sm:mt-0 sm:w-auto sm:flex-none"
               >
-                Get free chapters
+                Get free
               </Button>
             </div>
           </form>
